@@ -2,7 +2,7 @@ module.exports = {
   PREFIX: 'A',
   BALANCE_PRICE: 2500,
 
-  TOKEN: "MTUyNzUyNzQ0NTUxNzk1OTMyOA.GBstHk.fK18Q7c8YXkAQ1tW8JpA285l070oLE5fH1xXfE ", // ضع التوكن الجديد هنا
+  TOKEN: "MTUyNzUyNzQ0NTUxNzk1OTMyOA.GBstHk.fK18Q7c8YXkAQ1tW8JpA285l070oLE5fH1xXfE", // ضع التوكن الجديد هنا
   CLIENT_ID: "1527527445517959328",
   CLIENT_SECRET: "d38776f3108e5394b81835b9286d63c910c2723f05a705563dbeab1ad3544b81", // ضع الـ Client Secret الجديد هنا
 
@@ -18,7 +18,7 @@ module.exports = {
 
   ATHBET_NAFSEK_LOG: "1527527896367890632",
 
-  MONGOOSE: ""mongodb+srv://Laith455x_db_user:ydNKFMtUURmcFs1J@cluster0.nz8dwv0.mongodb.net/alfabot?retryWrites=true&w=majority&appName=Cluster0",", // سنضيف رابط MongoDB لاحقًا
+  MONGOOSE: "mongodb+srv://Laith455x_db_user:ydNKFMtUURmcFs1J@cluster0.nz8dwv0.mongodb.net/alfabot?retryWrites=true&w=majority&appName=Cluster0", // سنضيف رابط MongoDB لاحقًا
 
   BALANCE_LOG: "1527527870979637348",
 
