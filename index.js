@@ -70,8 +70,8 @@ const events = readdirSync('events');
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
-const DBManager = require('./src/managers/DBManager');
-const usersData = require('./src/models/Users.js');
+const DBManager = require('./events/DBManager');
+const usersData = require('./events/Users.js');
 const axios = require('axios');
 const fs = require('fs');
 
